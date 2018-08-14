@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Wanikani Incorrect Driller
 // @namespace   Stat
-// @description A new and improved lesson/review summary screen
+// @description Adds a quiz to the review screen so you can drill mistakes
 // @version     0.1.0
 // @include     *://www.wanikani.com/review
 // @copyright   2018+, Musera
